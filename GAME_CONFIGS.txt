@@ -1,0 +1,92 @@
+// Use this config and edit in ImagineringGolomb.py
+//
+//
+//Barbie (USA).nes 
+//CRC32: 5B6CA654
+
+[config]
+script_offset = 0x1185
+script_size = 0xC01
+charmap_offset = 0x114F
+charmap_size = 0x36
+ptr_table_offset = 0x1D88
+ptr_table_size = 0x68
+ptr_table_sections = [24,25]
+line_breaker = 0x00
+
+//Home Alone 2 - Lost in New York (USA).nes
+//CRC32: 2E0741B6
+
+[config]
+script_offset = 0xcae9
+script_size = 0x453
+charmap_offset = 0xCF70
+charmap_size = 0x2D
+ptr_table_offset = 0xcf3e
+ptr_table_size = 0x32
+ptr_table_sections = [23]
+line_breaker = 0x00
+
+//Ren & Stimpy Show, The - Buckeroo$! (USA).nes
+//CRC32: E98AB943
+
+[config]
+script_offset = 0x9FBC
+script_size = 0xD40
+charmap_offset = 0x9F8B
+charmap_size = 0x31
+ptr_table_offset = 0xACFE
+ptr_table_size = 0xFA
+ptr_table_sections = [123]
+line_breaker = 0x00
+
+//Simpsons, The - Bart vs. the Space Mutants (USA).nes
+//CRC32: 6F10097D
+
+[config]
+script_offset = 0x15049
+script_size = 0x2B79
+charmap_offset = 0x1501A
+charmap_size = 0x2E
+ptr_table_offset = 0xea13
+ptr_table_size = 0x3a
+ptr_table_sections = [3,3,3,2,3,2,3,2,3,2,8,9,8,1]
+line_breaker = 0x00
+
+//Simpsons, The - Bart vs. the World (USA).nes
+CRC32: 7416903F
+
+MAIN SCRIPT
+[config]
+script_offset = 0x15049
+script_size = 0x2B79
+charmap_offset = 0x1501A
+charmap_size = 0x2F
+ptr_table_offset = 0x17bc4
+ptr_table_size = 0x2ac
+ptr_table_sections = []
+line_breaker = 0x00
+
+INTRO - CREDITS
+[config]
+script_offset = 0xE5C9
+script_size = 0xB0
+charmap_offset = 0xE5AA
+charmap_size = 0x1f
+ptr_table_offset = 0xEA35
+ptr_table_size = 0x26
+ptr_table_sections = []
+line_breaker = 0x00
+
+//Simpsons, The - Bartman Meets Radioactive Man (USA).nes
+//CRC32: 5991B9D0
+
+[config]
+script_offset = 0x13f0
+script_size = 0x797
+charmap_offset = 0x13c6
+charmap_size = 0x2A
+ptr_table_offset = 0x1b89
+ptr_table_size = 0x22
+ptr_table_sections = [3,11]
+line_breaker = 0x00
