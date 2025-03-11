@@ -21,7 +21,7 @@ Imagineering_golomb.py -v show version.
 
 The program doesn't handle many exceptions, so try to provide the correct information to avoid issues. For more information, read the attached readme.txt.
 
-### Instrutions
+### Instructions
 
 The attached files and instruccions are for Barbie (USA).nes, but you can change it, I recommend using my settings in file game_config.txt
 
